@@ -1,7 +1,7 @@
 name: bar-m-prozessbegleitung
 favicon: null
-layout_spectrum: 0.4787633779924363
-typography_spectrum: 0.23246967024169862
+layout_spectrum: 0.25019
+typography_spectrum: 0.2445
 title: null
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.523475089808926
-  lightness: 0.19231686601415277
-  saturation: 0.4305433686822653
-  rhythmicContrast: 0.7250267728231847
+  brandStrength: 0.1875
+  lightness: 0.25
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
