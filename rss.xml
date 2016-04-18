@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bar-m-prozessbegleitung]]></title>
+        <description><![CDATA[bar-m-prozessbegleitung]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 15:43:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Representing history in the net. Multi perspective and user driven. Does it work?]]></title>
+            <description><![CDATA[<article><h1>Representing history in the net. Multi perspective and user driven. Does it work?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e4800f-2e58-4238-9aba-063fe59ad57e.jpg"></article>]]></description>
+            <link>undefinedrepresenting-history-in-the-net-multi-perspective-and-user/index.html</link>
+            <guid isPermaLink="false">776d5649-b68a-42a1-b758-341cd2d73501</guid>
+            <pubDate>Mon, 18 Apr 2016 15:43:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
