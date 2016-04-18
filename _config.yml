@@ -2,6 +2,7 @@ name: bar-m-prozessbegleitung
 favicon: null
 layout_spectrum: 0.4787633779924363
 typography_spectrum: 0.23246967024169862
+title: null
 cta:
   domain: null
   bucket: null
