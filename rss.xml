@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bar-m-prozessbegleitung]]></title>
         <description><![CDATA[bar-m-prozessbegleitung]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bar-m-prozessbegleitung/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 15:43:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 15:50:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bar-m-prozessbegleitung/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Representing history in the net. Multi perspective and user driven. Does it work?]]></title>
             <description><![CDATA[<article><h1>Representing history in the net. Multi perspective and user driven. Does it work?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/49e4800f-2e58-4238-9aba-063fe59ad57e.jpg"></article>]]></description>
-            <link>undefinedrepresenting-history-in-the-net-multi-perspective-and-user/index.html</link>
+            <link>https://thegrid.ai/bar-m-prozessbegleitung/representing-history-in-the-net-multi-perspective-and-user/index.html</link>
             <guid isPermaLink="false">776d5649-b68a-42a1-b758-341cd2d73501</guid>
-            <pubDate>Mon, 18 Apr 2016 15:43:14 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 15:50:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
