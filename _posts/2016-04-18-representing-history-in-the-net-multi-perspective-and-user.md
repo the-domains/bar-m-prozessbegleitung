@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-18T15:43:14.774Z'
-dateModified: '2016-04-18T15:42:07.570Z'
+datePublished: '2016-04-18T15:50:38.529Z'
+dateModified: '2016-04-18T15:47:30.305Z'
 title: Representing history in the net. Multi perspective and user driven. Does it work?
 author: []
+sourcePath: _posts/2016-04-18-representing-history-in-the-net-multi-perspective-and-user.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-representing-history-in-the-net-multi-perspective-and-user.md
-published: true
 url: representing-history-in-the-net-multi-perspective-and-user/index.html
 _type: Article
 
@@ -28,18 +28,9 @@ _type: Article
 
 Wir sind [\#histocamp][0]. Auf der Unkonferenz am 27./28.11\. in Bonn bieten wir eine Session zum von uns mit [undkonsorten][1] für die Europäische Akademie Schleswig-Holstein/Academia Baltica entwickelten Geschichtsportal Baltic History Sea Project.
 
-Anhand des [Pilots][2]
-diskutieren wir die Möglichkeiten digitaler Medien, verschiedenen 
-Sichten auf ein historisches Ereignis mutliperspektivisch darzustellen. 
-Also nicht-linear, nicht-hierarchisch, nicht-chronologisch. Welches 
-Potential ergibt sich, wenn user contributed content eingebunden wird 
-und so potentiell unendlich viele Perspektiven auf ein historisches 
-Ereignis nebeneinander stehen?
+Anhand des [Pilots][2] diskutieren wir die Möglichkeiten digitaler Medien, verschiedenen Sichten auf ein historisches Ereignis mutliperspektivisch darzustellen. Also nicht-linear, nicht-hierarchisch, nicht-chronologisch. Welches Potential ergibt sich, wenn user contributed content eingebunden wird und so potentiell unendlich viele Perspektiven auf ein historisches Ereignis nebeneinander stehen?
 
-Der Pilot hat Potential, aber auch Schwächen -- vor allem ist er 
-technisch nicht vollständig umgesetzt, die wisdom of the 
-crowd-Funktionen sind noch nicht implementiert. Wir lassen uns gern 
-Beispiele zeigen, wie es besser geht.
+Der Pilot hat Potential, aber auch Schwächen -- vor allem ist er technisch nicht vollständig umgesetzt, die wisdom of the crowd-Funktionen sind noch nicht implementiert. Wir lassen uns gern Beispiele zeigen, wie es besser geht.
 
 [0]: http://histocamp.hypotheses.org/
 [1]: http://undkonsorten.com/
